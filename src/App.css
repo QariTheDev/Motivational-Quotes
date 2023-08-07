@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(246, 246, 246);
+}
+
+* {
+    transition: all 0.3s ease-in-out;
+}
